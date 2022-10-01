@@ -1,9 +1,9 @@
-# Alpha-ToS
+# Xverse-ToS
 
-**By using Alpha you agree and accept the following terms of service.**
+**By using Xverse you agree and accept the following terms of service.**
 
 1. [discord.com/terms](https://discord.com/terms)
-2. Read and agreed to our [privacy policy](https://github.com/Client13/Alpha-Privacy-Policy/blob/main/README.md)
+2. Read and agreed to our [privacy policy](https://github.com/Client13/Xverse-Privacy-Policy/blob/main/README.md)
 
 # Prohibited Activities
 
